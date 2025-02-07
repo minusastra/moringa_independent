@@ -1,37 +1,19 @@
-# Wecheza - Empowering Female Athletes
+Wecheza - Empowering Female Athletes
 
-## Project Overview
-Wecheza is a web application designed to empower female athletes by providing a platform to showcase their achievements, connect with fans, and access resources for personal branding and community engagement. This project aims to address the disparity in recognition and opportunities for female athletes in the sports industry.
+Project Overview
+Wecheza is a platform made to empower female athletes by boosting fan engagement, building communities and monetizing female athlete's personal brands!
 
-## Technologies Used
-- HTML5
-- CSS3 (with Flexbox for responsive design)
-- JavaScript (ES6+)
+Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## Features
+Features
 - Responsive design for mobile, tablet, and desktop viewing
 - Interactive navigation menu
 - Project showcase with image and text descriptions
 - Team member profiles
-- Contact form with client-side validation
+- Contact form to reach 
 
-## Known Issues
-- Image sizing: Some images may appear oversized on certain devices. This will be addressed in future updates by implementing more robust responsive image techniques.
-- Local storage: Currently, the contact form data is only logged to the console. In a future update, this will be integrated with local storage for data persistence.
-
-## Setup and Installation
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in a web browser to view the project.
-3. No additional installation or setup is required as this is a static website.
-
-## Future Enhancements
-- Implement local storage for persisting form data
-- Add more interactive elements using JavaScript
-- Enhance accessibility features
-- Integrate with a backend service for form submission and data management
-
-## Contributing
-This project is part of a final assignment and is not open for contributions at this time.
-
-## License
-This project is created for educational purposes and is not licensed for commercial use.
+Known Issues
+- Form does not send emails
